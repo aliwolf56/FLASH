@@ -1,5 +1,5 @@
-#تيتوالاسطورة المحدث النسخ الرابعة ة
-# channel [🌐no_no2🌐](https://telegram.me/no_no2)
+سورس تيتو
+اهلا وسهلا بك في سورس تيتو
 * * *
 
 
@@ -14,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/tetoali605/THETETOO_A6A.git
+git clone https://github.com/anmar0/THETETOO7_A6A.git
 
 #5
-cd THETETOO_A6A
+cd THETETOO7_A6A
 
 #6
 chmod +x launch.sh
@@ -40,8 +40,3 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [🌐no_no2🌐](https://telegram.me/no_no2) 🐾
-
-For managing on Telegram.
-ADD Source [@no_no2](https://telegram.me/no_no2) ❤️
-Subscribe to Source channel [🌐no_no2🌐](https://telegram.me/no_no2) 
