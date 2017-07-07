@@ -14,7 +14,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/anmar0/THETETOO7_A6A.git
+git clone https://github.com/anmar0/THETETOO7.git
 
 #5
 cd THETETOO7_A6A
