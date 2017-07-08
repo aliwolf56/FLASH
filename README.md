@@ -1,57 +1,38 @@
-اهلا وسهلا بك في سورس فلاش
+تنصيب سورس فلاش   
+اتبع الخطوات 📝👇
 
-المطور @G0vip
-* * *
-
-
-#طريقة_التنصيب
-#1
-افتح ترمنال 
-وخلي هذا الامر
-
-sudo apt-get update
+افتح ترمنال جديد واكتب
 
 
-وراها هذا
+🔹➖sudo apt-get update
 
-#2
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+🔹➖ثاني خطوه اكتب➖🔹👇
 
-وراها هذا
 
-#3
-sudo apt-get upgrade
+🔹➖ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-وراها هذا
+🔹➖ثالث خطوه اكتب➖🔹📝👇
 
-#4
-git clone https://github.com/aliwolf56/FLASH.git
+🔹➖ git clone https://github.com/aliwolf56/FLASH.git
 
-وراها هذا
+🔹➖رابع خطوه اكتب➖🔹📝👇
 
-#5
-cd FLASH
+🔹➖ cd FLASH
 
-وراها هذا
+🔹➖خامس خطوه اكتب➖🔹👇📝
+ 
+🔹➖ chmod +x launch.sh
 
-#6
-chmod +x launch.sh
+🔹➖سادس خطوه اكتب➖🔹📝👇
 
-وراها هذا
+🔹➖ ./launch.sh install
 
-#7
-./launch.sh install
+🔹➖سابع خطوة➖🔹📝👇
 
-وراها هذا
+🔹➖ ./launch.sh
+ 
+😍➖وراهه راح طلب منك رقم تليفون 📝🌝حط رقم الفون و الكود 🌝📝
 
-#8
-./launch.sh انتضر شويه وراح يطلب رقمه خليه
-* * *
 وراها
 
-تفتح هاذا المسار ./data/config.lua 
-  sudo_users = {
-    YourID
-  }
-
-
+تفتح هاذا المسار ./data/config.lua sudo_users = { YourID }
