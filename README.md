@@ -17,7 +17,7 @@ sudo apt-get upgrade
 git clone https://github.com/anmar0/THETETOO7.git
 
 #5
-cd THETETOO7_A6A
+cd THETETOO7
 
 #6
 chmod +x launch.sh
